@@ -1,0 +1,10 @@
+Json server
+https://medium.com/letsboot/the-perfect-mock-backend-to-start-with-an-angular-application-3d751d16614f
+https://www.npmjs.com/package/json-server
+#routing
+https://medium.com/@rosiehsmith/angular-vocabulary-part-1-ngmodule-77a87729b3bf
+https://medium.com/better-programming/creating-an-application-wide-menu-in-angular-using-angular-material-ui-a-simple-tutorial-for-a3c1df1be33d
+#looping
+https://medium.com/@JeffLombardJr/understanding-foreach-map-filter-and-find-in-javascript-f91da93b9f2c
+#modal :
+https://stackblitz.com/edit/angular-close-bootstrap-modal?file=src%2Fapp%2Fapp.component.html
