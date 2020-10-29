@@ -8,3 +8,5 @@ https://medium.com/better-programming/creating-an-application-wide-menu-in-angul
 https://medium.com/@JeffLombardJr/understanding-foreach-map-filter-and-find-in-javascript-f91da93b9f2c
 #modal :
 https://stackblitz.com/edit/angular-close-bootstrap-modal?file=src%2Fapp%2Fapp.component.html
+#httpCalls:
+https://www.techiediaries.com/angular-10-tutorial-example-rest-crud-http-get-httpclient/
